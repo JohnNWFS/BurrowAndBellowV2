@@ -14,7 +14,8 @@ dirt shows one flower for each round, up to eight. A demo mode is not in
 this build, and the sprites are still the first set.
 
 Read `analysis/README.md` before changing the game. A pass file says what was
-read, what was checked, and what is still open.
+read, what was checked, and what is still open. The handoff for a new
+session is `docs/NEXT-SESSION.md`.
 
 The program images used for the checks stay on the TNAS, next to V1:
 
