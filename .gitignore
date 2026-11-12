@@ -1,0 +1,7 @@
+roms/
+*.zip
+derived/*.bin
+derived/*.asm
+derived/glyphs/
+__pycache__/
+*.o
