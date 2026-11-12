@@ -1,0 +1,10 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_bb_actors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_bb_actors",
+  "parent":{"name":"BurrowAndBellowV2","path":"BurrowAndBellowV2.yyp",},
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

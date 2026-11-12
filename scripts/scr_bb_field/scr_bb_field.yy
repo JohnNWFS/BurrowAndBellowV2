@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_v2_draw",
+  "%Name":"scr_bb_field",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_v2_draw",
+  "name":"scr_bb_field",
   "parent":{"name":"BurrowAndBellowV2","path":"BurrowAndBellowV2.yyp",},
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

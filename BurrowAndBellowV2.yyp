@@ -16,8 +16,10 @@
   "resources":[
     {"id":{"name":"obj_v2","path":"objects/obj_v2/obj_v2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"scr_v2_draw","path":"scripts/scr_v2_draw/scr_v2_draw.yy",},},
-    {"id":{"name":"scr_v2_title","path":"scripts/scr_v2_title/scr_v2_title.yy",},},
+    {"id":{"name":"scr_bb_actors","path":"scripts/scr_bb_actors/scr_bb_actors.yy",},},
+    {"id":{"name":"scr_bb_draw","path":"scripts/scr_bb_draw/scr_bb_draw.yy",},},
+    {"id":{"name":"scr_bb_field","path":"scripts/scr_bb_field/scr_bb_field.yy",},},
+    {"id":{"name":"scr_bb_game","path":"scripts/scr_bb_game/scr_bb_game.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

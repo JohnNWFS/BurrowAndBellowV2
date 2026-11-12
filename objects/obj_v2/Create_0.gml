@@ -1,1 +1,1 @@
-v2_boot();
+bb_boot();
